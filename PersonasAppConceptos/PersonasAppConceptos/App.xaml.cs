@@ -17,7 +17,7 @@ namespace PersonasAppConceptos
 
         public static void SetMainPage()
         {
-            Current.MainPage = new TabbedPage
+            Current.MainPage = new TabbedPageConcept
             {
                 Children =
                 {

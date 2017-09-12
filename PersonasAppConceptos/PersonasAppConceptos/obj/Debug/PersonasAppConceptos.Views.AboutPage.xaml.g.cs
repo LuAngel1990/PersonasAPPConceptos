@@ -11,8 +11,8 @@
 namespace PersonasAppConceptos.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\Git\\PersonasAPPConceptos\\PersonasAppConceptos\\PersonasAppConceptos\\PersonasApp" +
-        "Conceptos\\Views\\AboutPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\Git\\PersonasAPPConceptos\\PersonasAppConceptos\\PersonasAppConceptos\\Views\\About" +
+        "Page.xaml")]
     public partial class AboutPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
